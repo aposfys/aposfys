@@ -1,48 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .blue-text {
-            color: blue;
-        }
-        .highlight {
-            background-color: lightblue;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        .section-header {
-            color: white;
-            background-color: blue;
-            padding: 2px 5px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
+# Apostolos Fysekidis
 
-<h1 class="blue-text">Apostolos Fysekidis</h1>
+### ICT Undergraduate | Robotics Educator | Lifelong Learner
 
-<h2 class="section-header">ICT Undergraduate | Robotics Educator | Lifelong Learner</h2>
+🌐 Athens, Greece  
+📫 [apostolos_fys@yahoo.gr](mailto:apostolos_fys@yahoo.gr)  
+🔗 [LinkedIn](https://www.linkedin.com/in/apostolos-fysekidis/)
 
-<p>🌐 Athens, Greece<br>
-📫 <a href="mailto:apostolos_fys@yahoo.gr">apostolos_fys@yahoo.gr</a><br>
-🔗 <a href="https://www.linkedin.com/in/apostolos-fysekidis/">LinkedIn</a></p>
+---
 
-<div class="highlight">
-    <p>As a final-year ICT student passionate about robotics and education, I explore the intriguing world of bioinformatics, biotechnology, and AI. I'm also inspiring future generations as a Robotics Educator, merging biology with engineering.</p>
-    <p>Join me in this journey of discovery and innovation!</p>
-</div>
+As a final-year ICT student with a passion for robotics and education, I'm driven by a strong interest in bioinformatics, biotechnology, and AI, particularly at the intersection of biology and engineering. My journey in education has led me to embrace the role of a Robotics Educator, where I inspire young minds with the wonders of technology.
 
-<h3 class="section-header">🌟 Skills</h3>
-<ul>
-    <li>Programming | Cloud Computing | Data Structures</li>
-    <li>Collaboration | Adaptability | Problem Solving</li>
-</ul>
+With a dedication to lifelong learning, I am keen on exploring new horizons in digital systems, ensuring a blend of academic rigor and practical expertise. Join me in this journey of discovery and innovation!
 
-<!-- Other sections like Education, Experience, Continuous Learning, Languages, Hobbies -->
+---
 
-</body>
-</html>
+#### 🌟 Skills
+- Programming | Cloud Computing | Data Structures
+- Collaboration | Adaptability | Problem Solving
+
+#### 🎓 Education
+- University of Piraeus | Digital Systems
+- Thesis: "The Online Classroom: Strategies & Principles for Higher Education"
+
+#### 🤖 Experience
+- Seed Robotics | Robotics Educator and Instructor
+
+#### 📚 Continuous Learning
+- Certifications in Computing for Cancer Informatics, Healthcare Data Analytics
+
