@@ -8,23 +8,16 @@
 
 ---
 
-As a final-year ICT student with a passion for robotics and education, I'm driven by a strong interest in bioinformatics, biotechnology, and AI, particularly at the intersection of biology and engineering. My journey in education has led me to embrace the role of a Robotics Educator, where I inspire young minds with the wonders of technology.
+As a final-year undergraduate student in the School of ICT at the University of Pireaus, I am eager to gain experience and apply my developing skills in creative problem-solving and critical thinking to real-world challenges. Currently, I am working in educational programming and am passionate about teaching and communicating with children. I am excited to continue learning and growing in this field as I work towards my degree.
 
 With a dedication to lifelong learning, I am keen on exploring new horizons in digital systems, ensuring a blend of academic rigor and practical expertise. Join me in this journey of discovery and innovation!
 
 ---
 
-#### 🌟 Skills
-- Programming | Cloud Computing | Data Structures
-- Collaboration | Adaptability | Problem Solving
+🤖 **Robotics & Education:** Unlocking the potential of young minds through the power of robotics, I strive to impart both knowledge and wonder in technology.
 
-#### 🎓 Education
-- University of Piraeus | Digital Systems
-- Thesis: "The Online Classroom: Strategies & Principles for Higher Education"
+🧠 **Artificial Intelligence:** Exploring the boundaries of AI to harness its capabilities in solving real-world problems, I embrace the future of intelligent systems.
 
-#### 🤖 Experience
-- Seed Robotics | Robotics Educator and Instructor
+🎓 **Lifelong Learner:** Committed to perpetual growth, I constantly seek new challenges within digital systems, blending rigorous academic theory with hands-on practicality.
 
-#### 📚 Continuous Learning
-- Certifications in Computing for Cancer Informatics, Healthcare Data Analytics
-
+👨‍💻 **Programming & Technology Enthusiast:** With a zeal for coding, I'm continually honing my skills in programming languages and emerging technologies, ready to contribute to the next digital revolution.
